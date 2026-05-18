@@ -33,4 +33,3 @@ Estou sempre aberto a mentorias, parcerias em projetos de IA e novas oportunidad
 
   💼 LinkedIn: [Apenas insira o link aqui]
   📧 E-mail: [seu.email@exemplo.com]
-  🌐 Portfólio/Blog: [Se tiver, insira aqui, caso contrário pode apagar esta linha]
