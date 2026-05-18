@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**diogoRRB/diogoRRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Olá, eu sou o Diogo Ribeiro Rodrigues Braúna
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seja bem-vindo(a) ao meu espaço de desenvolvimento! Sou um profissional focado na interseção entre Lógica de Programação, Inteligência Artificial e Engenharia de Prompts. Construo soluções inteligentes, automações e agentes conversacionais especialistas projetados para resolver problemas reais e otimizar processos.
+
+Gosto de transformar regras de negócio complexas em fluxos lógicos eficientes, garantindo que os modelos de IA operem de forma precisa, previsível e segura.
+
+ 🛠️ Habilidades Técnicas
+ 
+ 🧠 Inteligência Artificial & Engenharia de Prompt
+   Design de Prompts: Técnicas avançadas de context-setting, Few-Shot prompting, Chain-of-Thought (CoT) e System Prompts estruturados.
+   Agentes Conversacionais: Definição de personas, alinhamento de tom de voz e mitigação de alucinações em LLMs.
+   Ferramentas: OpenAI API, ChatGPT, Claude, LangChain e plataformas de orquestração de bots.
+
+ 💻 Programação & Lógica
+  Core: Lógica de Programação, Algoritmos e Estruturas de Dados.
+  Linguagens & Ambientes: Python (focado em scripts e IA) e JavaScript / Node.js.
+  Versionamento & Fluxo: Git, GitHub Flow e escrita semântica de commits (Conventional Commits).
+
+
+ 🚀 Projetos em Destaque
+ 🤖 [Chatbot Especialista Financeiro]
+Este é o meu principal projeto de portfólio. Um agente conversacional inteligente que atua como consultor de finanças de ponta a ponta.
+   O que fiz: Desenvolvi toda a arquitetura lógica, construí a estrutura de prompts especialistas para garantir respostas precisas sobre investimentos e configurei o fluxo de mensageria.
+   Tecnologias: Python, OpenAI API, Markdown, Git.
+   👉 [Clique aqui para acessar o repositório do projeto!](https://github.com/[seu-usuario]/[nome-do-repositorio-do-bot])
+
+
+ 📬 Vamos nos conectar?
+
+Estou sempre aberto a mentorias, parcerias em projetos de IA e novas oportunidades profissionais.
+
+  💼 LinkedIn: [Apenas insira o link aqui]
+  📧 E-mail: [seu.email@exemplo.com]
+  🌐 Portfólio/Blog: [Se tiver, insira aqui, caso contrário pode apagar esta linha]
