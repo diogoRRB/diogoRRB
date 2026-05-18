@@ -11,18 +11,17 @@ Gosto de transformar regras de negócio complexas em fluxos lógicos eficientes,
  🧠 Inteligência Artificial & Engenharia de Prompt
    Design de Prompts: Técnicas avançadas de context-setting, Few-Shot prompting, Chain-of-Thought (CoT) e System Prompts estruturados.
    Agentes Conversacionais: Definição de personas, alinhamento de tom de voz e mitigação de alucinações em LLMs.
-   Ferramentas: OpenAI API, ChatGPT, Claude, LangChain e plataformas de orquestração de bots.
+   Ferramentas: OpenAI API, ChatGPT, Claude e plataformas de orquestração de bots.
 
  💻 Programação & Lógica
   Core: Lógica de Programação, Algoritmos e Estruturas de Dados.
-  Linguagens & Ambientes: Python (focado em scripts e IA) e JavaScript / Node.js.
+  Linguagens & Ambientes: Python (focado em scripts e IA)
   Versionamento & Fluxo: Git, GitHub Flow e escrita semântica de commits (Conventional Commits).
 
 
  🚀 Projetos em Destaque
- 🤖 [Chatbot Especialista Financeiro]
-Este é o meu principal projeto de portfólio. Um agente conversacional inteligente que atua como consultor de finanças de ponta a ponta.
-   O que fiz: Desenvolvi toda a arquitetura lógica, construí a estrutura de prompts especialistas para garantir respostas precisas sobre investimentos e configurei o fluxo de mensageria.
+ 🤖 Chatbot: GameMaster AI
+Este é o meu principal projeto de portfólio. Um agente conversacional inteligente que atua como um consultor especializado no universo dos jogos eletrônicos, eSports e cultura gamer de ponta a ponta
    Tecnologias: Python, OpenAI API, Markdown, Git.
    
 
