@@ -27,9 +27,4 @@ Este é o meu principal projeto de portfólio. Um agente conversacional intelige
    👉 [Clique aqui para acessar o repositório do projeto!](https://github.com/[seu-usuario]/[nome-do-repositorio-do-bot])
 
 
- 📬 Vamos nos conectar?
 
-Estou sempre aberto a mentorias, parcerias em projetos de IA e novas oportunidades profissionais.
-
-  💼 LinkedIn: [Apenas insira o link aqui]
-  📧 E-mail: [seu.email@exemplo.com]
