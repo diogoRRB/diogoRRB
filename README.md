@@ -1,6 +1,6 @@
 
 
-# Olá, eu sou o Diogo Ribeiro Rodrigues Braúna
+ Olá, eu sou o Diogo Ribeiro Rodrigues Braúna
 
 Seja bem-vindo(a) ao meu espaço de desenvolvimento! Sou um profissional focado na interseção entre Lógica de Programação, Inteligência Artificial e Engenharia de Prompts. Construo soluções inteligentes, automações e agentes conversacionais especialistas projetados para resolver problemas reais e otimizar processos.
 
@@ -24,7 +24,7 @@ Gosto de transformar regras de negócio complexas em fluxos lógicos eficientes,
 Este é o meu principal projeto de portfólio. Um agente conversacional inteligente que atua como consultor de finanças de ponta a ponta.
    O que fiz: Desenvolvi toda a arquitetura lógica, construí a estrutura de prompts especialistas para garantir respostas precisas sobre investimentos e configurei o fluxo de mensageria.
    Tecnologias: Python, OpenAI API, Markdown, Git.
-   👉 [Clique aqui para acessar o repositório do projeto!](https://github.com/[seu-usuario]/[nome-do-repositorio-do-bot])
+   
 
 
 
