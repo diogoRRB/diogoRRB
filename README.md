@@ -20,7 +20,7 @@ Sou estudante de Engenharia de Software na **UDF**, com previsão de formatura p
 
 Venho aprimorando continuamente minhas habilidades em linguagens e tecnologias como Python, C e SQL, entre outras. Também dedico parte do meu tempo a projetos pessoais e acadêmicos, buscando aplicar de forma prática os conceitos aprendidos na área de Tecnologia da Informação.
 
-Busco constantemente ampliar meus conhecimentos, desenvolver novas habilidades e aprimorar minha forma de aprender e solucionar problemas. Meu objetivo é contribuir com equipes de tecnologia, adquirir experiência profissional e continuar evoluindo ao longo da minha trajetória na área.
+Busco constantemente ampliar meus conhecimentos, desenvolver novas habilidades e aprimorar minha forma de aprender e solucionar problemas. Meu objetivo é contribuir com equipes de tecnologia, adquirir experiência profissional e continuar evoluindo ao longo da trajetória na área.
 
 ---
 
@@ -28,42 +28,27 @@ Busco constantemente ampliar meus conhecimentos, desenvolver novas habilidades e
 
 ### Linguagens e Desenvolvimento
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ### Ferramentas
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### Inteligência Artificial
+<p>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-bb9af7?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
 </p>
 
 ---
 
-## 📊 Estatísticas no GitHub
-
+<!-- Onda Colorida no Rodapé -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diogoRRB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoRRB&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=120&section=footer" alt="Rodapé Onde Colorida" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogoRRB&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diogoRRB&theme=tokyonight&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=diogoRRB&style=flat-square&color=7aa2f7" alt="Contador de Visitas" />
-</div>
