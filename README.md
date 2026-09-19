@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/diogorrb" target="_blank">
+  <a href="https://www.linkedin.com/in/diogo-brauina-22ab4240b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:diogorrb.dev@gmail.com">
+  <a href="mailto:diogobrauna12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
@@ -46,8 +46,8 @@ Busco constantemente ampliar meus conhecimentos, desenvolver novas habilidades e
 ## 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=diogoRRB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoRRB&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diogoRRB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoRRB&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
