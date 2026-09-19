@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
+  <a href="https://linkedin.com/in/diogorrb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:diogobrauna12@gmail.com">
+  <a href="mailto:diogorrb.dev@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
@@ -38,12 +38,12 @@ Busco constantemente ampliar meus conhecimentos, desenvolver novas habilidades e
 ## 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIOGO BRAÚNA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIOGO BRAÚNA&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diogoRRB&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoRRB&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIOGO BRAÚNA&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogoRRB&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -51,11 +51,11 @@ Busco constantemente ampliar meus conhecimentos, desenvolver novas habilidades e
 ## 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DIOGO BRAÚNA&theme=tokyonight&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=diogoRRB&theme=tokyonight&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DIOGO BRAÚNA&style=flat-square&color=7aa2f7" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=diogoRRB&style=flat-square&color=7aa2f7" alt="Contador de Visitas" />
 </div>
