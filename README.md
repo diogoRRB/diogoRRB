@@ -28,27 +28,25 @@ Busco constantemente ampliar meus conhecimentos, desenvolver novas habilidades e
 
 ### Linguagens e Desenvolvimento
 <p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-%20-%333333?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/-%20-%333333?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
+  <img src="https://img.shields.io/badge/-%20-%333333?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-%20-%333333?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-%20-%333333?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
 </p>
 
 ### Ferramentas
 <p>
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-%20-%333333?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/-%20-%333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ### Inteligência Artificial
 <p>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-bb9af7?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/-%20-%333333?style=for-the-badge&logo=openai&logoColor=bb9af7" alt="Prompt Engineering" />
 </p>
-
----
 
 <!-- Onda Colorida no Rodapé -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=120&section=footer" alt="Rodapé Onde Colorida" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=120&section=footer" alt="Rodapé Onda Colorida" />
 </p>
