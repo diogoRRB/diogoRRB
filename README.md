@@ -50,7 +50,7 @@ Busco constantemente ampliar os meus conhecimentos, desenvolver novas habilidade
 
 ### Inteligência Artificial
 <p>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-7aa2f7?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-bb9af7?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
 </p>
 
 ---
