@@ -11,7 +11,7 @@
 
 <!-- Botões de Contacto -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/diogo-brauina-22ab4240b" target="_blank">
+  <a href="https://www.linkedin.com/in/diogo-braúna" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:diogobrauna12@gmail.com" target="_blank">
