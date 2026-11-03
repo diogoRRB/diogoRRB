@@ -21,7 +21,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante de Engenharia de Software na **UDF**, com previsão de formatura para **2029**. Tenho grande interesse pela área de tecnologia, especialmente pelo desenvolvimento de software e pela área Full Stack.
 
@@ -31,22 +31,18 @@ Busco constantemente ampliar os meus conhecimentos, desenvolver novas habilidade
 
 ---
 
-## ⚡ Stacks e Tecnologias
+##  Stacks e Tecnologias
 
 ### Linguagens e Desenvolvimento
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="python logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" width="40" alt="c logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo" />
-</p>
-
-### Ferramentas
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" alt="git logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" width="40" alt="github logo" style="filter: invert(1);" />
-</p>
+ <div style="display: inline_block">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  <img width="18%" src="https://skillicons.dev/icons?i=c,sqlite,photoshop,mongodb&theme=dark&perline=5" alt="C, SQLite,PS">
+  <br></br>
 
 ### Inteligência Artificial
 <p>
